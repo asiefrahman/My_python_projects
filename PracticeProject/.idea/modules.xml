@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PracticeProject.iml" filepath="$PROJECT_DIR$/.idea/PracticeProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Programming Hero/.idea/Programming Hero.iml" filepath="$PROJECT_DIR$/../Programming Hero/.idea/Programming Hero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Training with Kaggle/.idea/Training with Kaggle.iml" filepath="$PROJECT_DIR$/../Training with Kaggle/.idea/Training with Kaggle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../py_random_practice/.idea/py_practice.iml" filepath="$PROJECT_DIR$/../py_random_practice/.idea/py_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_code/.idea/python_code.iml" filepath="$PROJECT_DIR$/../python_code/.idea/python_code.iml" />
+    </modules>
+  </component>
+</project>
