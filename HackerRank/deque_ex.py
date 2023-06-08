@@ -7,7 +7,7 @@ d = deque()
 
 N = int(input())
 m = [[x for x in input().split()] for i in range(N)]
-#print(m)
+# print(m)
 
 for element in m:
     if element[0] == 'append':

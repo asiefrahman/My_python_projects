@@ -22,8 +22,8 @@ t = []
 print(s, len(s))
 for i in s:
     t.append(int(i))
-    #print(i, type(i))
-#s = [1, 2,]
+    # print(i, type(i))
+# s = [1, 2,]
 print(t)
 print(hash(tuple(map(int, s))))
 print(hash(tuple(t)))

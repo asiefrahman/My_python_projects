@@ -1,0 +1,13 @@
+friends = ['Sajjad', 'Sadik', 'Tutul', 'Tuhin', 'Salahuddin', 'Kishan', 'Rupam', 'Jishu']
+print(friends)
+print(max(friends))
+print('Sadik' in friends)
+school_friends = ['Sadik', 'Tuhin', ]
+college_friends = ['Sajjad', 'Shahed']
+varsity_friends = ['Kishan', 'Rupam']
+all_friends = school_friends + college_friends + varsity_friends
+print(all_friends)
+print(max(all_friends))
+all_friends.pop(3)
+print(all_friends.index('Sajjad'))
+
